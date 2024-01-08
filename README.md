@@ -11,14 +11,14 @@
   
 - 💞️ I've worked on various projects ranging from End To End Movie Recommendation System to Classification and Regression using deep learning models.
 
+
 -  I'm also familier with implementing projects with the help of docker 🐋 and google kubernetes engine. I've also implemented projects on my hugging face spaces.
-- 📫 You can follow me on linked IN.
+
 
 ☀️ Quote to live By: 
 
 
 If you have a problem in windows 🪟 you have a troubleshooter. If you have a problem in Linux 🐧 boy you are thee TroubleShooter 🥷.
-
 <!---
 mishra-18/mishra-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
