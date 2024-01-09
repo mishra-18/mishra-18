@@ -7,7 +7,7 @@
 - 🌱 I've developed my interest analysing data and perform machine learning task on it. My interest in deep learning stems from the 2nd semester of my college when I got my hands on Deep Learning Specialization by DeepLearning.AI. Since then I've
      been coding and honing my skills.
 
--   Have a habit of reimplementing deep learning architecture from scrath and prefer going through a few papers per semester.
+-   Have a habit of reimplementing deep learning architecture from and prefer going through a few papers per semester.
   
 - 💞️ I've worked on various projects ranging from End To End Movie Recommendation System to Classification and Regression using deep learning models.
 
