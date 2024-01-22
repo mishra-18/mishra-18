@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in binge watching anime and implementing machine learning models.
   
-- 🚬 Quoting Sherlock "*I may be on the side of AI but don't for one second think I don't know DSA.*"
+- Check out my portfolio at https://mishra-18.github.io
   
 - 🌱 I've developed my interest analysing data and perform machine learning task on it. My interest in deep learning stems from the 2nd semester of my college when I got my hands on Deep Learning Specialization by DeepLearning.AI. Since then I've
      been coding and honing my skills.
