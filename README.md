@@ -16,7 +16,7 @@ PS: Yes, I make AI jokes. Do I regret it? maybe! Am I proud of It? YOU BET I AM!
 - 💞️ I've worked on various projects ranging from multiple Classification and Regression tasks using deep learning models.
 
 
--    I'm also familiar with implementing projects with the help of docker 🐋 and google kubernetes engine, having multiple projects deployed on my hugging face spaces and GCP.
+-    I'm also familiar with implementing projects with the help of docker 🐋 and Google kubernetes engine, having multiple projects deployed on my hugging face spaces and GCP.
 
 
 ☀️ Quote to live By: 
@@ -27,6 +27,3 @@ Mishra-18/Mishra-18 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-My reaction when someone say's ViT models are overated:
-
-![stunned-wow](https://github.com/mishra-18/mishra-18/assets/155224614/83948e3f-4adf-4a78-a91d-33c10a24910a)
