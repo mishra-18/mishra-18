@@ -1,30 +1,19 @@
-- 👋 Hi, I’m Shubh. I'm a 3rd year undergrad currently pursuing B.Tech in Computer Science. I'm passionate about working toward the things that align with my interests.
+- 👋 Hey there! I'm Shubh, a 3rd-year undergrad who thinks sleeping with my laptop might count as a LAN party. I'm earning my stripes in B.Tech Computer Science, and my mantra is 'Code, laugh, and caffeinate'.
+
+  For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/16HajwZxvb1KlCIqZGn1xT3VoFxfUP20v/view?usp=sharing).
   
-  My [CV](https://drive.google.com/file/d/16HajwZxvb1KlCIqZGn1xT3VoFxfUP20v/view?usp=sharing)
+  Currently, I'm wrangling Vision-language models into submission. They're still not listening.
 
-  I'm currently working on Vision-language models.
+- 👀 Did you hear about the artificial intelligence that went to therapy? It said, 'I’ve got too many layers to unpack!' **Ba dum tss!**  
+PS: Crafting AI jokes is my neural network’s side hustle. Regrettable? Possibly. Hilarious? Digitally proven.
+
+- If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, click here: [mishra-18.github.io](https://mishra-18.github.io)
+
+- 🌱 I'm knee-deep in data, mining it for insights, and teaching machines to think deeper than a philosopher on espresso. My love for deep learning started in the 2nd semester, and we've been going steady ever since!
   
-- 👀 **Why did the LLM break up with its calculator? It said, 'I need someone who can handle more than just numerical pickup lines – I'm into deep learning, not just arithmetic!'**  
-PS: Yes, I make AI jokes. Do I regret it? maybe! Am I proud of It? YOU BET I AM!
-  
-- Check out my portfolio at https://mishra-18.github.io   
-  
-- 🌱 I've developed an interest analyzing data and performing machine learning tasks on it. My interest in deep learning stems from the 2nd semester, Since then I've worked on multiple projects.
+- 💞️ I love gaining deep insights from papers and implementing models from scratch using PyTorch. I have read a bunch on both supervised and self-supervised algorithms (many implemented) and also have a Vision Transform series going on [medium](https://medium.com/thedeephub/building-vision-transformer-from-scratch-using-pytorch-an-image-worth-16x16-words-24db5f159e27) where I explain how to implement some of the important architectures from scratch.
 
--   Have a habit of reimplementing deep learning architecture from and prefer going through a few papers per semester.
-  
-- 💞️ I've worked on various projects ranging from multiple Classification and Regression tasks using deep learning models.
+- 🐋 Feel free to dive into my projects. They're Dockerized, ensuring no compatibility drama
 
+☀️ If you have a problem in Windows 🪟 you have a troubleshooter. If you have a problem in Linux 🐧 you are the TroubleShooter.
 
--    I'm also familiar with implementing projects with the help of docker 🐋 and Google kubernetes engine, having multiple projects deployed on my hugging face spaces and GCP.
-
-
-☀️ Quote to live By: 
-
-If you have a problem in Windows 🪟 you have a troubleshooter. If you have a problem in Linux 🐧 you are the TroubleShooter.
-<!---
-Mishra-18/Mishra-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Feel free to contribute. Check out my projects almost all of them are Dockerized to ensure configurations and scalability.
