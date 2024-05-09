@@ -1,10 +1,10 @@
 - 👋 Hey there! I'm Shubh, a 3rd-year undergrad who thinks sleeping with my laptop might count as a LAN party. I'm earning my stripes in B.Tech Computer Science, and my mantra is 'Code, laugh, and caffeinate'.
 
-  For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/16HajwZxvb1KlCIqZGn1xT3VoFxfUP20v/view?usp=sharing).
+  For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/1vYYKtzT85y_W0d7EH7IDBG2LF9BcAVX8/view?usp=sharing).
   
   Currently, I'm wrangling Vision-language models into submission. They're still not listening.
 
-- 👀 Did you hear about the artificial intelligence that went to therapy? It said, 'I’ve got too many layers to unpack!' **Ba dum tss!**  
+- 👀 Did you hear about the artificial intelligence that went to therapy? It said, 'I’ve got too many layers to unpack!'
 PS: Crafting AI jokes is my neural network’s side hustle. Regrettable? Possibly. Hilarious? Digitally proven.
 
 - If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, click here: [mishra-18.github.io](https://mishra-18.github.io)
