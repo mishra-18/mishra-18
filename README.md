@@ -1,6 +1,6 @@
 - 👋 Hey there! I'm Shubh, a 3rd-year undergrad who thinks sleeping with my laptop might count as a LAN party. I'm earning my stripes in B.Tech Computer Science, and my mantra is 'Code, laugh, and caffeinate'.
 
-  For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/1vYYKtzT85y_W0d7EH7IDBG2LF9BcAVX8/view?usp=sharing).
+  For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/1XNJxrbujD-wmcy6Lafyo9rxmXIJE5hsO/view?usp=sharing).
   
   Currently, I'm wrangling Vision-language models into submission. They're still not listening.
 
