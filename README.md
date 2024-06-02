@@ -7,7 +7,7 @@
 - 👀 Did you hear about the artificial intelligence that went to therapy? It said, 'I’ve got too many layers to unpack!'
 PS: Crafting AI jokes is my neural network’s side hustle. Regrettable? Possibly. Hilarious? Digitally proven.
 
-- If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, click here: [mishra-18.github.io](https://mishra-18.github.io)
+- If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, click here: [Protfolio](https://skmishra.netlify.app)
 
 - 🌱 I'm knee-deep in data, mining it for insights, and teaching machines to think deeper than a philosopher on espresso. My love for deep learning started in the 2nd semester, and we've been going steady ever since!
   
