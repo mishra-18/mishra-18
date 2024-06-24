@@ -49,21 +49,22 @@
     <img alt="Kubernetes" src="https://img.icons8.com/color/50/000000/kubernetes.png" height="70" width="70"/>
   </a>
 </p>
+
 ## 📫 How to reach me
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]/">
+  <a href="https://www.linkedin.com/in/mishra18/">
     <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height="100" width="100"/>
   </a>
   
   <!-- Email -->
-  <a href="mailto:[YourEmail]">
+  <a href="mailto:mishra4475@gmail.com">
     <img alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height="100" width="100"/>
   </a>
   
   <!-- Portfolio -->
-  <a href="[YourPortfolioURL]">
+  <a href="skmishra.netlify.app">
     <img alt="Portfolio" src="https://img.icons8.com/color/48/000000/domain.png" height="100" width="100"/>
   </ina>
 </p>
