@@ -15,44 +15,21 @@
 
 * For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/1xCnQ4rMeqoqEG5MuMZnLZ1wEEcfhg_sk/view?usp=sharing).
 
-## 🛠 Skills
-<p align="center">
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" height="50" width="100"/>
-  </a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="50" width="100"/>
-  </a>
-  
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com/">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" height="50" width="100"/>
-  </a>
-  
-  <!-- C++ -->
-  <a href="https://isocpp.org/">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="50" width="100"/>
-  </a>
-</p>
-
-## 📫 How to reach me
+#### 📫 How to reach me
 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mishra18/">
-    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height="90" width="90"/>
+    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" height="70" width="70"/>
   </a>
   
   <!-- Email -->
   <a href="mailto:mishra4475@gmail.com">
-    <img alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height="90" width="90"/>
+    <img alt="Email" src="https://img.icons8.com/color/48/000000/gmail.png" height="70" width="70"/>
   </a>
   
   <!-- Portfolio -->
   <a href="skmishra.netlify.app">
-    <img alt="Portfolio" src="https://img.icons8.com/color/48/000000/domain.png" height="90" width="90"/>
+    <img alt="Portfolio" src="https://img.icons8.com/color/48/000000/domain.png" height="70" width="70"/>
   </ina>
 </p>
