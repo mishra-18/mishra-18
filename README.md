@@ -13,7 +13,7 @@
 
 - 🐋 Feel free to dive into my projects. They're Dockerized, ensuring no compatibility drama.
 
-* For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/1xDHP1Md6XwTX444MQXT0wX6RKMuTDi-h/view?usp=sharing).
+* For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/17UTD5S1fQzPoh4cxiRofzJKcD-WrJqHB/view?usp=sharing).
 
 #### 📫 How to reach me
 
