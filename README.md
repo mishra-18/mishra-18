@@ -7,7 +7,7 @@
   
 * If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, check out my [Protfolio](https://skmishra.netlify.app).
   
-* Listening to music and coding deep learning models from scratch is how I kill my time.
+* Listening to music and coding deep learning models from scratch is how I kill my time. 
     
 * Interested in development of architectures and pipelines that help us gain deeper insights into the causal structure of a model and its generalizability on Out-Of-Distribution (OOD) data.
 * Follow me on [medium](https://medium.com/thedeephub/building-vision-transformer-from-scratch-using-pytorch-an-image-worth-16x16-words-24db5f159e27) where I explain how to implement some of the most influencial architectures from scratch.
