@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 * I'm knee-deep in data 🌱, mining it for insights, and teaching machines to think deeper than a philosopher on espresso ☕.
-* Currently, I'm fine tuning language models into submission.
+* Currently, I'm wrangling vision-language models into submission. They're about to listen.
   
 * If you want to see a tech wizardry portfolio with more Easter eggs than a spring bunny convention, check out my [Protfolio](https://skmishra.netlify.app).
   
