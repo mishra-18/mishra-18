@@ -16,6 +16,7 @@
 
 * For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/17UTD5S1fQzPoh4cxiRofzJKcD-WrJqHB/view?usp=sharing).
 
+ Been finetuning some stuff lately. [Check it Out!](https://github.com/mishra-18/tune-rllm)
 #### 📫 How to reach me
 
 <p align="center">
