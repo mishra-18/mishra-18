@@ -1,5 +1,8 @@
 <h1 align='center'>Hey there! I'm Shubh 🌟 :></h1>
 
+Been finetuning some stuff lately. [Check it Out!](https://github.com/mishra-18/tune-rllm)
+
+Take a look at [Pool-Of-Models](https://github.com/mishra-18/ML-Models).
 ## 🚀 About Me
 
 * I'm knee-deep in data 🌱, mining it for insights, and teaching machines to think deeper than a philosopher on espresso ☕.
@@ -16,7 +19,7 @@
 
 * For a sneak peek into my brain, check out my [CV](https://drive.google.com/file/d/17UTD5S1fQzPoh4cxiRofzJKcD-WrJqHB/view?usp=sharing).
 
- Been finetuning some stuff lately. [Check it Out!](https://github.com/mishra-18/tune-rllm)
+ 
 #### 📫 How to reach me
 
 <p align="center">
