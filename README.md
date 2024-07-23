@@ -1,6 +1,6 @@
 <h1 align='center'>Hey there! I'm Shubh 🌟 :></h1>
 
-Been finetuning some stuff lately. [Check it Out!](https://github.com/mishra-18/tune-rllm)
+Been finetuning some LLMs lately. [Check it Out!](https://github.com/mishra-18/tune-rllm)
 
 Take a look at [Pool-Of-Models](https://github.com/mishra-18/ML-Models).
 ## 🚀 About Me
